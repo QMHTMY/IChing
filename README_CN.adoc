@@ -1,0 +1,9 @@
+:experimental:
+:author: 'Shieber'
+:date: '2020.03.04'
+
+### 使用
+$: `python FortuneTelling.py`
+
+### 描述
+此脚本可实现(https://baike.baidu.com/item/%E5%91%A8%E6%98%93/6219[易经])算卦过程。
