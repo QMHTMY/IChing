@@ -8,4 +8,4 @@
 $: `python FortuneTelling.py`
 
 ### Description
-This script is to show how Chinese fortune-telling via (https://sv.wikipedia.org/wiki/I_Ching[I Ching]) works.
+[link:README_CN.adoc[中文]] This script is to show how Chinese fortune-telling via (https://sv.wikipedia.org/wiki/I_Ching[I Ching]) works.
