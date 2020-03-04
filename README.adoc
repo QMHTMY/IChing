@@ -1,4 +1,4 @@
-# ChouYi Fortune-telling
+# IChing Fortune-telling
 :experimental:
 :author: 'Shieber'
 :date: '2020.03.04'
