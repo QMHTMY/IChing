@@ -97,7 +97,7 @@ def showGua(yaoNums):
         gua.append((str(num), yao, cyao))
 
     name = gNames[gname]
-    print("挂名: "+name[0]+'挂第'+name[1])
+    print("挂名: "+name[0]+'挂'+name[1])
 
     for i in range(len(gua)):
         print(' '+gua[i][0]+'   '+gua[i][1]+'  '+gua[i][2]) 
